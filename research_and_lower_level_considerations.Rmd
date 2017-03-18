@@ -1,7 +1,7 @@
 
 
 
-- A distributed, hierarchical and recurrent framework for reward-based choice http://www.nature.com/nrn/journal/v18/n3/full/nrn.2017.7.html " We emphasize how several features of neuroanatomy may support the implementation of choice, including mutual inhibition in recurrent neural networks and the hierarchical organization of timescales for information processing across the cortex. This account also suggests that certain correlates of value are emergent rather than represented explicitly in the brain."
+- A distributed, hierarchical and recurrent framework for reward-based choice http://www.nature.com/nrn/journal/v18/n3/full/nrn.2017.7.html  "We emphasize how several features of neuroanatomy may support the implementation of choice, including mutual inhibition in recurrent neural networks and the hierarchical organization of timescales for information processing across the cortex. This account also suggests that certain correlates of value are emergent rather than represented explicitly in the brain."
 
 
 - http://www.decisionsrus.com/
